@@ -12,6 +12,9 @@
 <a href="https://www.hackerrank.com/lexzhukov">
   <img align="left" alt="Alexander's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<a href="https://www.leetcode.com/lexzhukov">
+  <img align="left" alt="Alexander's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 <br>
 
 ### I'm Alexander
