@@ -21,5 +21,5 @@
 - An Indie Hacker and Frontend Engineer
 - Passionate about the Jamstack.
 - Working on some cool side projects.
-- Learning React, Next.js, Node.js and the world around them.
+- Learning System Design, Node.js and the world around them.
 - Looking for new opportunities!
