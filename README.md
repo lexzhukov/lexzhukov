@@ -15,7 +15,7 @@
 <a href="https://www.leetcode.com/lexzhukov">
   <img align="left" alt="Alexander's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.goodreads.com/user/show/73101322-alexander-zhukov">
+<a href="https://www.goodreads.com/lexzhukov">
   <img align="left" alt="Alexander's Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />
 </a>
 <br>
