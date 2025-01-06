@@ -28,11 +28,3 @@ export default function Me() {
   return <h1>Aliaksandr Zhukau | SWE @ Partium</h1>;
 }
 ```
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ0ZjYxbm41ZmlmY3dndnVydjQydzhjaXFoaXRkb2hvZHVzbm1qdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" />
-</div>
-
-<p align="center">
-  <samp>Check out my repos ⬇️</samp>
-</p>
