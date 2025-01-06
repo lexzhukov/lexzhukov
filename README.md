@@ -5,26 +5,24 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lexzhukov/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/lexzhukov/)
 
-```jsx
-export default function Me() {
-  const education = 'BS, Computer Science';
-  const languages = ['en_US', 'ru_RU', 'be_BY'];
-  const code = ['JavaScript', 'TypeScript', 'HTML', 'CSS'];
-  const tools = [
+```js
+const me = {
+  education: 'BS, Computer Science',
+  languages: ['en_US', 'ru_RU', 'be_BY'],
+  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  tools: [
     'Angular',
     'React',
     'Next.js',
-    'shadcn/ui',
     'Tailwind CSS',
     'Node.js',
-    'Prisma',
+    'Nest.js',
+    'Prisma ORM',
     'PostgreSQL',
     'Docker',
-  ];
-  const experience = {
+  ],
+  experience: {
     SWE: '10+ years',
-  };
-
-  return <h1>Aliaksandr Zhukau | SWE @ Partium</h1>;
-}
+  },
+};
 ```
